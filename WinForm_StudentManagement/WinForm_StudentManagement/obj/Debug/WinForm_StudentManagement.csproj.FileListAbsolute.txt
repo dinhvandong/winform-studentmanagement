@@ -1,0 +1,11 @@
+C:\Users\TUF_Gaming\source\repos\WinForm_StudentManagement\WinForm_StudentManagement\bin\Debug\WinForm_StudentManagement.exe
+C:\Users\TUF_Gaming\source\repos\WinForm_StudentManagement\WinForm_StudentManagement\bin\Debug\WinForm_StudentManagement.exe.config
+C:\Users\TUF_Gaming\source\repos\WinForm_StudentManagement\WinForm_StudentManagement\obj\Debug\WinForm_StudentManagement.csproj.AssemblyReference.cache
+C:\Users\TUF_Gaming\source\repos\WinForm_StudentManagement\WinForm_StudentManagement\obj\Debug\WinForm_StudentManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\TUF_Gaming\source\repos\WinForm_StudentManagement\WinForm_StudentManagement\obj\Debug\WinForm_StudentManagement.Form1.resources
+C:\Users\TUF_Gaming\source\repos\WinForm_StudentManagement\WinForm_StudentManagement\obj\Debug\WinForm_StudentManagement.Properties.Resources.resources
+C:\Users\TUF_Gaming\source\repos\WinForm_StudentManagement\WinForm_StudentManagement\obj\Debug\WinForm_StudentManagement.csproj.GenerateResource.cache
+C:\Users\TUF_Gaming\source\repos\WinForm_StudentManagement\WinForm_StudentManagement\obj\Debug\WinForm_StudentManagement.csproj.CoreCompileInputs.cache
+C:\Users\TUF_Gaming\source\repos\WinForm_StudentManagement\WinForm_StudentManagement\obj\Debug\WinForm_StudentManagement.exe
+C:\Users\TUF_Gaming\source\repos\WinForm_StudentManagement\WinForm_StudentManagement\obj\Debug\WinForm_StudentManagement.pdb
+C:\Users\TUF_Gaming\source\repos\WinForm_StudentManagement\WinForm_StudentManagement\bin\Debug\WinForm_StudentManagement.pdb
